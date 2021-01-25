@@ -24,7 +24,7 @@ Source of data: https://raw.githubusercontent.com/ageron/handson-ml2/master/ </b
 
 ### Classification MNIST
 
-Description: </br> Classification of handwritten digits from MNIST database
+Description: </br> Classification of handwritten digits from MNIST database </br>
 Algorithms: SVC, OneVsRestClassifier, SGDClassifier  </br>
 Source of data: sklearn datasets "mnist_784" </br>
 
