@@ -22,9 +22,9 @@ Description: Predicting California houses price </br>
 Algorithms: Linear Regression, Decision Tree Regressor, Random Forest Regressor </br>
 Source of data: https://raw.githubusercontent.com/ageron/handson-ml2/master/ </br>
 
-### Calssification MNIST
+### Classification MNIST
 
-Description: Predicting California houses price </br>
-Algorithms: Linear Regression, Decision Tree Regressor, Random Forest Regressor </br>
+Description: </br> Classification of handwritten digits from MNIST database
+Algorithms: SVC, OneVsRestClassifier, SGDClassifier  </br>
 Source of data: sklearn datasets "mnist_784" </br>
 
