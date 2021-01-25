@@ -6,9 +6,9 @@ If you have problems with opening notebooks and see communicate "Sorry, somethin
 ## Projects:
 
 ### Advertising Binary Classification
-Description: Binary classification problem - prediction if a person will click on the advertisement or not
-Algorithms: Logistic Regrssion, Random Forest
-Source of data: https://www.kaggle.com/fayomi/advertising#advertising.csv
+Description: Binary classification problem - prediction if a person will click on the advertisement or not </br>
+Algorithms: Logistic Regrssion, Random Forest </br>
+Source of data: https://www.kaggle.com/fayomi/advertising#advertising.csv </br>
 
 ### Boston House Price
 
